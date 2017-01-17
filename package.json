@@ -35,19 +35,19 @@
     "prepush": "npm test"
   },
   "dependencies": {
-    "async": "^1.1.0",
+    "async": "^2.1.4",
     "fast.js": "^0.1.0",
-    "glob": "^5.0.0",
+    "glob": "^7.1.1",
     "yamljs": "^0.2.0"
   },
   "devDependencies": {
-    "babel": "^5.4.0",
-    "espower-babel": "^3.1.0",
-    "husky": "^0.8.0",
-    "jscs": "^1.13.0",
+    "babel": "^6.5.2",
+    "espower-babel": "^4.0.3",
+    "husky": "^0.12.0",
+    "jscs": "^3.0.7",
     "jshint": "^2.8.0",
-    "mocha": "^2.2.0",
-    "npm-run-all": "^1.2.5",
-    "power-assert": "^0.11.0"
+    "mocha": "^3.2.0",
+    "npm-run-all": "^4.0.1",
+    "power-assert": "^1.4.2"
   }
 }
